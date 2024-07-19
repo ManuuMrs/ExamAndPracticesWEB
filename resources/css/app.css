@@ -1,0 +1,8 @@
+        .centrar-horizontal {
+            display: flex;
+            justify-content: center;
+        }
+        .form-inline .form-control, .form-inline .btn, .form-inline select {
+            margin-right: 10px;
+        }
+        
